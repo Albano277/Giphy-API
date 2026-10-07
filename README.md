@@ -1,1 +1,1 @@
-# Assignment #9 - Giphy API
+The application fetches GIFs from the Giphy API and displays them when the Fetch a GIF button is clicked. I also completed the extra credit search functionality, allowing users to search for GIFs using the input field.
